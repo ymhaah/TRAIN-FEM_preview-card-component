@@ -23,7 +23,7 @@ preview card component challenge
 
 ### Links
 
--   Solution URL: []()
+-   [Solution URL](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/previewcardcomponent-g8Wa4vaLZk)
 -   [Live Site URL](https://ymhaah.github.io/preview-card-component/)
 
 ## My process
