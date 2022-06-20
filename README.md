@@ -24,7 +24,7 @@ preview card component challenge
 ### Links
 
 -   Solution URL: []()
--   Live Site URL: []()
+-   [Live Site URL](https://ymhaah.github.io/preview-card-component/)
 
 ## My process
 
