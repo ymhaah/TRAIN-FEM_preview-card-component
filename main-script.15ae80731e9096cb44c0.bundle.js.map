@@ -1,0 +1,1 @@
+{"version":3,"file":"main-script.15ae80731e9096cb44c0.bundle.js","mappings":"mBACAA,QAAQC,IAAI,S","sources":["webpack://bookmark-landing-page-master/./scritp.js"],"sourcesContent":["import \"./css/test2.css\";\r\nconsole.log(\"test\");\r\n"],"names":["console","log"],"sourceRoot":""}
