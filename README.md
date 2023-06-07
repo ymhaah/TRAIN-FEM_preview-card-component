@@ -53,4 +53,4 @@ section .Card img {
 ## Author
 
 -   github - [youssef hafnawi](https://github.com/ymhaah)
--   Twitter - [@hafanwi](https://twitter.com/hafanwi)
+-   Twitter - [@hafanwi](https://twitter.com/hafanwy)
